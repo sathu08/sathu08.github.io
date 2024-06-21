@@ -1102,10 +1102,10 @@ section,
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
-  --default-color: #ffffff;
-  --background-color: var(--alt-background-color);
-  --heading-color: #ffffff;
-  padding: 80px 0;
+  --default-color: #000000;
+  /* --background-color: var(--alt-background-color); */
+  --heading-color: #000000;
+  padding: 120px 90px;
   position: relative;
 }
 
